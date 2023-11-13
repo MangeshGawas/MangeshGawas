@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" width="150" height="150" alt="codeMe" width:100 src="https://img.freepik.com/free-vector/web-design-concept-with-flat-style_23-2147854683.jpg?w=740&t=st=1690297872~exp=1690298472~hmac=3384ebdd88d6c20543767b4942cc0fb49f4cdf5a51d39ba025ad3ca694724415">
 
-- 🌱 I’m currently learning **Java Backend and NextJs**
+- 🌱 I’m currently learning **SSR**
 
 - 💬 Ask me about **React,Angular,Jquery,html/css**
 
